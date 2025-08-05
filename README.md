@@ -1,8 +1,6 @@
 # 🛰️ SkyGP
 
-**SkyGP** is a distributed Gaussian Process (GP) regression framework that supports multiple model architectures and large-scale datasets. It implements scalable GP variants, allowing efficient training and evaluation across different expert aggregation topologies.
-
-This repository contains all necessary code and dataset loading scripts to benchmark SkyGP on real-world datasets including Electric, Puma, and Sarcos.
+[AAAI 2026] Streaming Generated Gaussian Process Experts for Online Learning and Control
 
 ---
 
